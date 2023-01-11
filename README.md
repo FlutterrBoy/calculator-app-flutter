@@ -1,6 +1,6 @@
 # caluclater_app
 
-A new Flutter project.
+Flutter Caluclater App.
 
 ## Getting Started
 
