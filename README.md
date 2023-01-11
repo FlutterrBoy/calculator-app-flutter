@@ -1,5 +1,7 @@
 # caluclater_app
 
+Simple App made in Flutter to calculate basic operations.
+
 ## Flutter Caluclater App.
 
 
